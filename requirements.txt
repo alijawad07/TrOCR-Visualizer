@@ -1,0 +1,49 @@
+brotlipy==0.7.0
+cchardet==2.1.7
+certifi @ file:///croot/certifi_1690232220950/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+chardet==5.2.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+contourpy==1.1.1
+cryptography @ file:///croot/cryptography_1694444244250/work
+cycler==0.11.0
+filelock==3.12.4
+fonttools==4.42.1
+fsspec==2023.9.2
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
+huggingface-hub==0.17.2
+idna @ file:///croot/idna_1666125576474/work
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+kiwisolver==1.4.5
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+matplotlib==3.8.0
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+numpy @ file:///croot/numpy_and_numpy_base_1691091611330/work
+opencv-python==4.6.0.66
+packaging==23.1
+Pillow @ file:///croot/pillow_1695134008276/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+python-dateutil==2.8.2
+PyYAML==6.0.1
+regex==2023.8.8
+requests @ file:///croot/requests_1690400202158/work
+safetensors==0.3.3
+sentencepiece==0.1.99
+six==1.16.0
+sympy @ file:///croot/sympy_1668202399572/work
+tokenizers==0.13.3
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.66.1
+transformers==4.33.2
+triton==2.0.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+urllib3 @ file:///croot/urllib3_1686163155763/work
